@@ -1,7 +1,7 @@
 header {
   background-position: center center;
   height: 350px;
-  background-image: url("../img/bg2.jpg");
+  background-image: url(../img/bg2.jpg);
 }
 
 h1 {
@@ -30,6 +30,7 @@ h3 {
   /* https://www.google.com/search?q=html+h3+default+font+size&oq=html+h3+default+font+size&aqs=chrome..69i57.6677j0j7&sourceid=chrome&ie=UTF-8&safe=active&ssui=on */
   font-size: 28.6px;
   /* font-size: 1.3rem; */
+  letter-spacing: 1px;
 }
 
 li {
@@ -49,5 +50,6 @@ thead > tr:first-child {
     background-color: #fd8800;
 }
 p{
-    letter-spacing: 1px;
+    text-align: justify;
+    text-indent: 15px;
 }
