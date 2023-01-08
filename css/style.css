@@ -1,39 +1,40 @@
-
-header{    
-    background-position: center center;
-    height: 350px;
-    background-image: url("../img/bg2.jpg");
+header {
+  background-position: center center;
+  height: 350px;
+  background-image: url("../img/bg2.jpg");
 }
 
-h1{
-    background-color: rgba(248, 248, 248, 0.25);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: #416618;
-    font-weight: bold;
-    margin-top: 80px;
-    padding-left: 11rem;    
+h1 {
+  background-color: rgba(248, 248, 248, 0.25);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #416618;
+  font-weight: bold;
+  margin-top: 80px;
+  padding-left: 11rem;
 }
 
-h2{    
-    margin-top: 10px;    
+h2 {
+  margin-top: 10px;
 }
 
-h3{    
-    font-weight: bold;
-    color: #894f3b;    
+h3 {
+  font-weight: bold;
+  color: #894f3b;
 }
 
-
-li{
-    list-style-image: url(../img/lemon2.png);
+li {
+  list-style-image: url(../img/lemon2.png);
 }
 
-
-td,th{
-    text-align: center;
+td,
+th {
+  text-align: center;
 }
 
-thead>tr:first-child{    
-    letter-spacing: 2px;    
+thead > tr:first-child {
+  letter-spacing: 2px;
 }
 
+.navbar {
+    background-color: #fd8800;
+}
