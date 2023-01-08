@@ -25,6 +25,11 @@ h2 {
 h3 {
   font-weight: bold;
   color: #894f3b;
+  text-align: center;
+
+  /* https://www.google.com/search?q=html+h3+default+font+size&oq=html+h3+default+font+size&aqs=chrome..69i57.6677j0j7&sourceid=chrome&ie=UTF-8&safe=active&ssui=on */
+  font-size: 28.6px;
+  /* font-size: 1.3rem; */
 }
 
 li {
@@ -42,4 +47,7 @@ thead > tr:first-child {
 
 .navbar {
     background-color: #fd8800;
+}
+p{
+    letter-spacing: 1px;
 }
