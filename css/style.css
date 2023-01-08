@@ -1,6 +1,8 @@
 
 header{    
     background-position: center center;
+    height: 350px;
+    background-image: url("../img/bg2.jpg");
 }
 
 h1{
